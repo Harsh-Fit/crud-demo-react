@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-demo-react/static/css/main.2f5ed3bb.css",
+    "main.js": "/crud-demo-react/static/js/main.f3f50cd0.js",
+    "static/js/787.635aedaa.chunk.js": "/crud-demo-react/static/js/787.635aedaa.chunk.js",
+    "index.html": "/crud-demo-react/index.html",
+    "main.2f5ed3bb.css.map": "/crud-demo-react/static/css/main.2f5ed3bb.css.map",
+    "main.f3f50cd0.js.map": "/crud-demo-react/static/js/main.f3f50cd0.js.map",
+    "787.635aedaa.chunk.js.map": "/crud-demo-react/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5ed3bb.css",
+    "static/js/main.f3f50cd0.js"
+  ]
+}
